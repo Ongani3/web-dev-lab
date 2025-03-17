@@ -1,0 +1,3 @@
+In this lab I have learned how to connect my VS code terminal to 
+github, use git commands to upload and update files in a github
+repository and also how to use pull requests on github
